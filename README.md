@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayz25
-- 👀 I’m interested in Python language, Web developement using Python and enjoy doing competetive programming. 
-- 🌱 I’m currently learning Python Language,exploring python libraries,frameworks and also persuing bachelor's degree in Information Technology.
+- 👀 I’m working as a Software Engineer and learning other stuff related to web development along the way.
+- 🌱 I’m currently working on React, Next JS, Django, Ember. 
 - 📫 How to reach me - Mail: patiljayesh026@gmail.com
                        LinkedIn: https://www.linkedin.com/in/jayesh-patil-4064a41a6/
 
